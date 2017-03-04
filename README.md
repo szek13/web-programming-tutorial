@@ -5,10 +5,10 @@ Web Site example using css layout and basic java script utilities
 
 Live examples on [https://rawgit.com](https://rawgit.com): 
 
-- [x] [HTML Preview](https://rawgit.com/nmatei/web-programming-tutorial/master/index.html)
-- [x] [Contacts](https://rawgit.com/nmatei/web-programming-tutorial/master/contacts.html)
-- [x] [Playing Cards Template](https://rawgit.com/nmatei/web-programming-tutorial/master/templates/cards.html)
-- [x] [Bootstrap Example](https://rawgit.com/nmatei/web-programming-tutorial/master/index-bootstrap.html)
+- [x] [HTML Preview](https://rawgit.com/szek13/web-programming-tutorial/master/index.html)
+- [x] [Contacte](https://rawgit.com/szek13/web-programming-tutorial/master/contacte.html)
+- [x] [Playing Cards Template](https://rawgit.com/szek13/web-programming-tutorial/master/templates/cards.html)
+- [x] [Bootstrap Example](https://rawgit.com/szek13/web-programming-tutorial/master/index-bootstrap.html)
 
 Exercises
 ---------
@@ -53,3 +53,6 @@ Lesson 2 Plan
         cd c:\Progs\apache-tomcat-8.0.20\webapps
         mklink /J web-tutorial c:\Producs\web-programming-tutorial
 
+
+
+        drhf
